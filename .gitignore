@@ -1,0 +1,4 @@
+####Ignoring library and temp folders for Unity
+
+UnityProject/Library
+UnityProject/Temp
